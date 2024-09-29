@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2021-09-06",
+    "datas": [
+      {
+        "musicHref": "/play/462",
+        "musicName": "时间之河 (Beyond The Sundial)",
+        "musicArtist": "班得瑞",
+        "imageUrl": "http://i.htqyy.com/img8/0/462.jpg"
+      },
+      {
+        "musicHref": "/play/31",
+        "musicName": "夜曲(很伤感的纯音乐) (Nocturne)",
+        "musicArtist": "神秘园",
+        "imageUrl": "http://i.htqyy.com/img8/0/31.jpg"
+      },
+      {
+        "musicHref": "/gedan/61",
+        "musicName": "给心做一个SPA",
+        "musicArtist": "",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/61s.jpg",
+        "type": "2"
+      },
+      {
+        "musicHref": "/play/519",
+        "musicName": "月光の云海",
+        "musicArtist": "久石让",
+        "imageUrl": "http://i.htqyy.com/img8/1/519.jpg"
+      },
+      {
+        "musicHref": "/play/723",
+        "musicName": "月半小夜曲",
+        "musicArtist": "Lawrence",
+        "imageUrl": "http://i.htqyy.com/img8/1/723.jpg"
+      }
+    ]
+  }
+]
