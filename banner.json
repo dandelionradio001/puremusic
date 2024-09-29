@@ -9,6 +9,13 @@
         "imageUrl": "http://i.htqyy.com/img8/0/462.jpg"
       },
       {
+        "musicName": "天天电影 - 最新好看的电影推荐，最新、最热、最全的电影大片",
+        "musicArtist": "",
+        "imageUrl": "https://sneezeart.github.io/film/cover.png",
+        "type":"4",
+        "url":"https://play.google.com/store/apps/details?id=com.sneeze.film"
+      },
+      {
         "musicHref": "/play/31",
         "musicName": "夜曲(很伤感的纯音乐) (Nocturne)",
         "musicArtist": "神秘园",
